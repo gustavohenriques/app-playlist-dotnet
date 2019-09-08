@@ -12,7 +12,7 @@
     * Ao rodar o projeto ele ira abrir em um browser com uma porta localhost
     * coloque a seguinte URL para mostrar o resultado http://localhost:{port}/api/Playlist/GetPlayListByCidade?cidade={nomeCidade}
 
-4) Parav visualizar a documentação da API:
+4) Para visualizar a documentação da API:
     * Ao rodar a API acesse no menu -> API : https://localhost:{port}/Help
 
 5) Sugestão em abrir o projeto no VS 2019 ou 2017
