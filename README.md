@@ -6,7 +6,7 @@
  2) O Controller possui Outputcache de 5 minutos para melhorar a performance de muitos acessos.
 
  3) Para rodar a API, deverá realizar os seguintes passos:
-    * Baixar os arquivos para sua maquina local
+    * Baixar os arquivos para sua maquina local e extrair o projeto
     * Clicar 2 vezes no arquivo "app-playlist-dotnet.sln" (.SLN). O arquivo estará na raíz do projeto
     * Ao abrir o projeto no visual studio, Clique no botão de start (IIS Express)
     * Ao rodar o projeto ele ira abrir em um browser com uma porta localhost
