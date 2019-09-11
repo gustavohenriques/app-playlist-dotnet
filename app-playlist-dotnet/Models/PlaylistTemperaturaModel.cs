@@ -275,7 +275,7 @@ namespace app_playlist_dotnet.Models
 
     public enum OwnerType { Artist, User };
 
-    public enum AlbumTypeEnum { Album, Compilation };
+    public enum AlbumTypeEnum { Album, Compilation, Single };
 
     public enum ReleaseDatePrecision { Day, Year };
 
@@ -371,6 +371,10 @@ namespace app_playlist_dotnet.Models
             {
                 case "album":
                     return AlbumTypeEnum.Album;
+                    
+                case "single":
+                    return AlbumTypeEnum.Album;
+                    
                 case "compilation":
                     return AlbumTypeEnum.Compilation;
             }
